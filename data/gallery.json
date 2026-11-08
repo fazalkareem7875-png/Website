@@ -1,0 +1,11 @@
+[
+  { "src": "/images/gallery/aluminium-01.jpg", "category": "Aluminium", "alt": "Aluminium window installation" },
+  { "src": "/images/gallery/aluminium-02.jpg", "category": "Aluminium", "alt": "Aluminium door and glazing work" },
+  { "src": "/images/gallery/aluminium-03.jpg", "category": "Aluminium", "alt": "Aluminium shopfront framing" },
+  { "src": "/images/gallery/glass-01.jpg", "category": "Glass", "alt": "Glass shower cabin" },
+  { "src": "/images/gallery/glass-02.jpg", "category": "Glass", "alt": "Glass partition and door" },
+  { "src": "/images/gallery/glass-03.jpg", "category": "Glass", "alt": "12mm glass shopfront" },
+  { "src": "/images/gallery/wood-01.jpg", "category": "Wood", "alt": "Wood kitchen cabinets" },
+  { "src": "/images/gallery/wood-02.jpg", "category": "Wood", "alt": "Fitted wardrobe joinery" },
+  { "src": "/images/gallery/wood-03.jpg", "category": "Wood", "alt": "Wood panelling and false ceiling" }
+]

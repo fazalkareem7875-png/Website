@@ -1,0 +1,77 @@
+{
+  "aluminium": {
+    "title": "Aluminium Work",
+    "image": "/images/service-aluminium.jpg",
+    "imageAlt": "Aluminium sliding windows and doors",
+    "intro": "Aluminium is light, durable and low-maintenance — ideal for windows, doors and shopfronts. Everything is cut, assembled and glazed to your measurements in our workshop, then fitted on site.",
+    "sections": [
+      {
+        "title": "Windows & doors",
+        "text": "Casement and sliding windows, single and double doors, with the glass and locking hardware suited to the opening."
+      },
+      {
+        "title": "Sliding systems",
+        "text": "Smooth sliding windows and doors for balconies, lounges and commercial fronts, balanced for daily use."
+      },
+      {
+        "title": "Partitions",
+        "text": "Aluminium-framed internal partitions to divide offices, shops or rooms without losing light."
+      },
+      {
+        "title": "Shopfronts",
+        "text": "Aluminium shopfront framing built around your branding, shutter and access requirements."
+      }
+    ],
+    "cta": "Get a free measure & quote for aluminium work"
+  },
+  "glass": {
+    "title": "Glass Work",
+    "image": "/images/service-glass.jpg",
+    "imageAlt": "Frameless glass shower cabin",
+    "intro": "From a single shower cabin to a full 12mm shopfront — we supply, cut to size and fit glass properly, with the right thickness and finish for the job.",
+    "sections": [
+      {
+        "title": "Shower cabins",
+        "text": "Framed and frameless shower enclosures measured to your bathroom, sealed and finished on site."
+      },
+      {
+        "title": "Glass doors & partitions",
+        "text": "Clear, frosted or tinted glass doors and partitions for offices, shops and homes."
+      },
+      {
+        "title": "Railings",
+        "text": "Glass balustrades and railings for stairs and balconies, fitted with the correct clamps and channels."
+      },
+      {
+        "title": "12mm shopfronts",
+        "text": "Heavy-duty 12mm shopfront glazing for commercial fronts, set into aluminium framing."
+      }
+    ],
+    "cta": "Get a free measure & quote for glass work"
+  },
+  "wood-interior": {
+    "title": "Wood Interior",
+    "image": "/images/service-wood.jpg",
+    "imageAlt": "Custom wood kitchen cabinets",
+    "intro": "Kitchens, wardrobes, ceilings and panelling — designed around your space, built in our workshop, and installed by our own team.",
+    "sections": [
+      {
+        "title": "Kitchen cabinets",
+        "text": "Base and wall cabinets with the layout, storage and finish you choose, built to your kitchen's exact dimensions."
+      },
+      {
+        "title": "Wardrobes",
+        "text": "Fitted wardrobes that use the full height of the room, with the internal layout you actually need."
+      },
+      {
+        "title": "False ceiling",
+        "text": "Wood and mixed-material false ceilings with clean edges and provision for lighting."
+      },
+      {
+        "title": "Wood panelling",
+        "text": "Feature walls and full-room panelling in the finish that matches your interior."
+      }
+    ],
+    "cta": "Get a free measure & quote for wood interior work"
+  }
+}

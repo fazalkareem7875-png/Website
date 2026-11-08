@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "aluminium",
+    "title": "Aluminium Work",
+    "href": "/services/aluminium",
+    "image": "/images/service-aluminium.jpg",
+    "imageAlt": "Aluminium windows and sliding doors",
+    "summary": "Windows, doors, sliding systems, partitions and shopfronts — fabricated to measure in aluminium.",
+    "items": [
+      "Aluminium windows & doors",
+      "Sliding systems",
+      "Internal partitions",
+      "Shopfronts",
+      "Curtain/glazing work"
+    ]
+  },
+  {
+    "slug": "glass",
+    "title": "Glass Work",
+    "href": "/services/glass",
+    "image": "/images/service-glass.jpg",
+    "imageAlt": "Glass shower cabin and partition",
+    "summary": "Shower cabins, glass doors and partitions, railings and 12mm shopfront glazing.",
+    "items": [
+      "Shower cabins",
+      "Glass doors & partitions",
+      "Glass railings",
+      "12mm shopfronts",
+      "Toughened glass fitting"
+    ]
+  },
+  {
+    "slug": "wood-interior",
+    "title": "Wood Interior",
+    "href": "/services/wood-interior",
+    "image": "/images/service-wood.jpg",
+    "imageAlt": "Wood kitchen cabinets and panelling",
+    "summary": "Kitchen cabinets, wardrobes, false ceilings and wood panelling — designed and fitted.",
+    "items": [
+      "Kitchen cabinets",
+      "Wardrobes",
+      "False ceiling",
+      "Wood panelling",
+      "Custom joinery"
+    ]
+  }
+]
